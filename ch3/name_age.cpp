@@ -3,8 +3,8 @@ int main()
 {
 	cout<<"Please enter your name and age\n";
 	string first_name;
-	int age;
+	double age;
 	cin>>first_name;
 	cin>>age;
-	cout<<"Thanks "<<first_name<<", I would have never guessed you were "<<age<<" old!";
+	cout<<"Thanks "<<first_name<<", I would have never guessed you were "<<12*age<<" months old!\n";
 }
