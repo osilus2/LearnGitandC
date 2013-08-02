@@ -9,7 +9,7 @@ int main()
 		<< "\nn+1==" << n+1
 		<< "\n3*n==" << 3*n
 		<< "\nn squared==" << n*n
-		<< "\nsquare root of n ==" << sqrt(n)
+		<< "\nsquare root of n==" << sqrt(n)
 		<< endl;
 
 }
